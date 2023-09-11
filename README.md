@@ -3,7 +3,7 @@ Creating a GitHub README.md for a project like a LinkedIn clone using Redux and 
 ```markdown
 # LinkedIn Clone using Redux and Firebase
 
-![LinkedIn Clone](https://your-project-image-url.com)
+![LinkedIn Clone] linkedin-clone-da041.web.app/
 
 ## Table of Contents
 
@@ -15,7 +15,7 @@ Creating a GitHub README.md for a project like a LinkedIn clone using Redux and 
   - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
